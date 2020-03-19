@@ -31,7 +31,7 @@ const ListAuthors: React.FC = () => {
   }
 
   return (
-    <IonPage>
+    <IonPage id="authors">
 
       <IonHeader>
         <IonToolbar color="primary">
